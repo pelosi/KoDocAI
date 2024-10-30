@@ -1,0 +1,21 @@
+# Input/Output data
+dataset/
+output/
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+
+# Backup
+_backup/
